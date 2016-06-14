@@ -1,0 +1,31 @@
+{
+  "name": "cheerio",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JohnAntonusMaximus/node-webscraper.git"
+  },
+  "keywords": [
+    "webscraper",
+    "node",
+    "john",
+    "anthony",
+    "radosta"
+  ],
+  "author": "John Anthony Radosta",
+  "dependencies" : {
+    "express"    : "latest",
+    "request"    : "latest",
+    "cheerio"    : "latest"
+  },
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/JohnAntonusMaximus/node-webscraper/issues"
+  },
+  "homepage": "https://github.com/JohnAntonusMaximus/node-webscraper#readme"
+}
